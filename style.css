@@ -1,25 +1,21 @@
-h2 { 
-color: black; 
-font-size: 200%;
-border: dashed;  
-} 
-body {
-  background-color: lavender;
+h1{
+  text-align: center;
+  color: antiquewhite; 
 }
-  ul { 
-    text-align: center;
-    list-style: inside;
-    list-style-type: square; 
-    
-  }
 
-table, tr, th, td, p {
-  border: 2px solid black;
-  border-collapse: collapse; 
-  padding: 10px;
+body{
+  background-color: lavender;   
 }
-table {
-  width: 500px
+.navbar a{
+  
+  text-decoration: none;
+  color: green;
+  float: left;
+  padding: 10px 44px;
+  font-size: 20px;
+}
+.navbar a:hover {
+  background-color: antiquewhite;
 }
 
   
